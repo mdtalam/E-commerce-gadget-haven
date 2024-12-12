@@ -1,0 +1,50 @@
+.customer-service-page {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h2 {
+  color: #444;
+}
+
+.contact-form {
+  margin-bottom: 40px;
+}
+
+.contact-form label {
+  display: block;
+  margin: 10px 0 5px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.faqs ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.faqs li {
+  margin-bottom: 20px;
+}
+
+.faqs li p {
+  margin-left: 20px;
+}
+
+.contact-info ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.contact-info li {
+  margin-bottom: 10px;
+}

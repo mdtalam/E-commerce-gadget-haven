@@ -1,0 +1,273 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "Gaming Laptop Xtreme",
+    "product_image": "https://i.ibb.co.com/F4c8HKk/images-1.jpg",
+    "category": "Laptop",
+    "price": 1250,
+    "description": "High-performance gaming laptop with cutting-edge graphics.",
+    "Specification": ["32GB RAM", "1TB SSD", "NVIDIA RTX 3080", "Intel i9"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 2,
+    "product_title": "Ultra-Light Laptop Air",
+    "product_image": "https://i.ibb.co.com/0CKkC25/New-Mac-Book-Air-2020-M1-Chip.jpg",
+    "category": "Laptop",
+    "price": 900,
+    "description": "Lightweight and compact ultrabook for mobility.",
+    "Specification": ["16GB RAM", "512GB SSD", "Intel i7", "13.3-inch display"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 3,
+    "product_title": "Bluetooth Speaker",
+    "product_image": "https://i.ibb.co.com/NWxNycw/images-1.jpg",
+    "category": "Accessory",
+    "price": 150,
+    "description": "Portable Bluetooth speaker with high-quality sound.",
+    "Specification": [
+      "Bluetooth 5.0",
+      "12-Hour Battery Life",
+      "Water Resistant"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 4,
+    "product_title": "Smartphone Ultra X",
+    "product_image": "https://i.ibb.co.com/85jF6WB/images-1.jpg",
+    "category": "Smartphone",
+    "price": 1200,
+    "description": "High-end smartphone with top-of-the-line features.",
+    "Specification": [
+      "128GB Storage",
+      "8GB RAM",
+      "5G Connectivity",
+      "Triple Camera"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 5,
+    "product_title": "Pro Business Laptop",
+    "product_image": "https://i.ibb.co.com/pwWGv6w/businesslaptops-2048px-233284-3x.jpg",
+    "category": "Laptop",
+    "price": 1050,
+    "description": "Advanced business laptop with secure data encryption.",
+    "Specification": ["16GB RAM", "512GB SSD", "Intel i7", "15.6-inch display"],
+    "availability": true,
+    "rating": 4.7
+  },
+
+  {
+    "product_id": 6,
+    "product_title": "Creator Studio Laptop",
+    "product_image": "https://i.ibb.co.com/mHzJ2P9/81-Cd-Q4-DSNYL-AC-UF1000-1000-QL80.jpg",
+    "category": "Laptop",
+    "price": 1400,
+    "description": "Powerful laptop designed for content creators and designers.",
+    "Specification": ["32GB RAM", "1TB SSD", "NVIDIA RTX 3070", "Intel i9"],
+    "availability": false,
+    "rating": 4.8
+  },
+  {
+    "product_id": 7,
+    "product_title": "Student Laptop Easy",
+    "product_image": "https://i.ibb.co.com/Yk77NZm/h7-Rghm-Vh-RSKgsq-Sp-RCgi-L-1200-80.jpg",
+    "category": "Laptop",
+    "price": 500,
+    "description": "Affordable and reliable laptop perfect for students.",
+    "Specification": [
+      "4GB RAM",
+      "128GB SSD",
+      "Intel Celeron",
+      "11.6-inch display"
+    ],
+    "availability": true,
+    "rating": 4.1
+  },
+  {
+    "product_id": 8,
+    "product_title": "Professional Laptop Max",
+    "product_image": "https://i.ibb.co.com/fdz3srT/71-2-Ltephi-L-AC-UF1000-1000-QL80.jpg",
+    "category": "Laptop",
+    "price": 1150,
+    "description": "Robust laptop for professionals needing high performance.",
+    "Specification": ["16GB RAM", "1TB SSD", "Intel i7", "17.3-inch display"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 9,
+    "product_title": "Smartwatch Pro",
+    "product_image": "https://i.ibb.co.com/T1rFBFw/haylou-2pro-01-mob.jpg",
+    "category": "Smartwatch",
+    "price": 250,
+    "description": "Advanced smartwatch with fitness tracking and notifications.",
+    "Specification": [
+      "Heart Rate Monitor",
+      "GPS",
+      "5-Day Battery",
+      "Water Resistant"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 10,
+    "product_title": "Convertible Laptop Flex",
+    "product_image": "https://i.ibb.co.com/qrsfKxd/images-1.jpg",
+    "category": "Laptop",
+    "price": 850,
+    "description": "Versatile 2-in-1 laptop with touch and pen support.",
+    "Specification": ["8GB RAM", "256GB SSD", "Intel i5", "Touchscreen"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 11,
+    "product_title": "Smartwatch Active",
+    "product_image": "https://i.ibb.co.com/7t911gQ/images-1.jpg",
+    "category": "Smartwatch",
+    "price": 300,
+    "description": "Smartwatch designed for active lifestyles and workouts.",
+    "Specification": [
+      "Step Counter",
+      "Sleep Tracking",
+      "Music Control",
+      "Water Resistant"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": 12,
+    "product_title": "Smartwatch Luxe",
+    "product_image": "https://i.ibb.co.com/2yKbbmp/71618iv-El9-L.jpg",
+    "category": "Smartwatch",
+    "price": 400,
+    "description": "Luxury smartwatch with premium materials and advanced features.",
+    "Specification": [
+      "Heart Rate Monitor",
+      "GPS",
+      "AMOLED Display",
+      "Voice Assistant"
+    ],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": 13,
+    "product_title": "Budget Laptop Plus",
+    "product_image": "https://i.ibb.co.com/mNRvFTd/71618iv-El9-L.jpg",
+    "category": "Laptop",
+    "price": 600,
+    "description": "Affordable laptop with essential features for daily computing.",
+    "Specification": ["8GB RAM", "256GB SSD", "Intel i3", "14-inch display"],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": 14,
+    "product_title": "Smartwatch Essential",
+    "product_image": "https://i.ibb.co.com/yYdpM6h/The-Ultimate-Guide-to-Smartwatch.jpg",
+    "category": "Smartwatch",
+    "price": 200,
+    "description": "Essential smartwatch with all basic features and more.",
+    "Specification": [
+      "Notifications",
+      "Fitness Tracking",
+      "Long Battery Life",
+      "Water Resistant"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 15,
+    "product_title": "Portable Power Bank",
+    "product_image": "https://i.ibb.co.com/vY8Xfwg/Ugreen-Power-Bank-SOURCE-Ugreen.jpg",
+    "category": "Accessory",
+    "price": 80,
+    "description": "High-capacity portable power bank for charging on the go.",
+    "Specification": ["10,000mAh", "Fast Charging", "Dual USB Ports"],
+    "availability": true,
+    "rating": 4.4
+  },
+
+  {
+    "product_id": 16,
+    "product_title": "Smartphone Max Pro",
+    "product_image": "https://i.ibb.co.com/LPW0zwg/i-Phone-14-Pro-Deep-Purple-7300.jpg",
+    "category": "Smartphone",
+    "price": 950,
+    "description": "Premium smartphone with advanced photography capabilities.",
+    "Specification": [
+      "256GB Storage",
+      "12GB RAM",
+      "5G Connectivity",
+      "Quad Camera"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 17,
+    "product_title": "Smartphone Lite",
+    "product_image": "https://i.ibb.co.com/rcXgsM4/Xiaomi-13-Lite.jpg",
+    "category": "Smartphone",
+    "price": 650,
+    "description": "Affordable smartphone with essential features.",
+    "Specification": ["64GB Storage", "4GB RAM", "4G LTE", "Dual Camera"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 18,
+    "product_title": "Smartphone Plus",
+    "product_image": "https://i.ibb.co.com/NYxJbxk/8f02334a-307d-4bed-811a-594474d3.jpg",
+    "category": "Smartphone",
+    "price": 750,
+    "description": "Balanced smartphone with a good mix of features.",
+    "Specification": [
+      "128GB Storage",
+      "6GB RAM",
+      "5G Connectivity",
+      "Triple Camera"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 19,
+    "product_title": "Wireless Earbuds Pro",
+    "product_image": "https://i.ibb.co.com/XSxPcKK/1-1-1200x1200.jpg",
+    "category": "Accessory",
+    "price": 200,
+    "description": "Premium wireless earbuds with noise cancellation.",
+    "Specification": [
+      "Bluetooth 5.0",
+      "Active Noise Cancellation",
+      "24-Hour Battery Life"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+
+  {
+    "product_id": 20,
+    "product_title": "Wireless Charger",
+    "product_image": "https://i.ibb.co.com/GC7rh8D/wireless-charging-speed.jpg",
+    "category": "Accessory",
+    "price": 60,
+    "description": "Convenient wireless charger for smartphones.",
+    "Specification": ["Fast Charging", "Qi-Certified", "Compact Design"],
+    "availability": true,
+    "rating": 4.3
+  }
+]
