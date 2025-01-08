@@ -50,7 +50,7 @@ Local Storage
 4. users can remove the product from cart and wishlist section
 5. most populer features is users can purchase the product that he adde the product to cart.
 ## 🔗 Project Links
-Project Live Link: https://assignment-project-8-gadget-heaven.netlify.app/
+Project Live Link: https://e-commerce-gadget-heaven.netlify.app/
 
 
 
